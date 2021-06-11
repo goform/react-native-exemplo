@@ -3152,10 +3152,10 @@ globals@^13.6.0, globals@^13.9.0:
   dependencies:
     type-fest "^0.20.2"
 
-goform@^1.0.9:
-  version "1.0.9"
-  resolved "https://registry.yarnpkg.com/goform/-/goform-1.0.9.tgz#0e16cd62511bda5b5571906a02ae3752b61c6f29"
-  integrity sha512-DllYDh8HRxsBl/AA2rKKKupyBS4m4C4w9farv3b+A9djAz+NXQ1JDWmenIKLDJdniAr6oJydbmpzSO1129mo7Q==
+goform@^1.1.1:
+  version "1.1.1"
+  resolved "https://registry.yarnpkg.com/goform/-/goform-1.1.1.tgz#27280e4227544a8f96d72e258ce183caafa674fd"
+  integrity sha512-Id0MaPYcMTJVuFa5ldgcJo8271n0oQcccmbPt420XQO5r2noILw7O7+n04XLOmlt1wQ9nTI6DtQOaEjpAPUW6w==
   dependencies:
     dot-object "^2.1.4"
 

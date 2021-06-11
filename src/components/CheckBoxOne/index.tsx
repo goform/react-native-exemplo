@@ -3,7 +3,7 @@ import React, {useCallback} from 'react';
 import RNCheckbox, {
   CheckBoxProps as RNCheckboxProps,
 } from '@react-native-community/checkbox';
-import {useUtil} from 'goform';
+import {useUtil} from 'goform/utils';
 import {Text, View, ViewStyle} from 'react-native';
 
 export interface CheckboxOption {

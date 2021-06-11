@@ -9,7 +9,7 @@ import {Keyboard, TextInputProps, View} from 'react-native';
 
 import DateTimePicker from 'react-native-modal-datetime-picker';
 
-import {useUtil} from 'goform';
+import {useUtil} from 'goform/utils';
 
 import {Container, TextInput} from './styles';
 
